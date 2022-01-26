@@ -1,6 +1,6 @@
 # Section Four Cards
 
-[![Vídeo Demonstração](https://github.com/marcolucianodev/section-four-cards/blob/master/public/section-four-cards.png)](https://www.linkedin.com/posts/marcolucianodev_frontend-frontenddeveloper-react-ugcPost-6890523067207041025-JRob)
+[![Vídeo Demonstração](https://github.com/marcolucianodev/section-four-cards/blob/master/public/section-four-cards.png)](https://www.linkedin.com/posts/marcolucianodev_react-frontend-desenvolvedorfrontend-activity-6892252446849155073-x04w)
 
 Projeto de estudo em React com styled-components, modelo usado em desafio do Front-end Mentor.
 
