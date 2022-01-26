@@ -1,9 +1,5 @@
 import React, { useState } from "react";
 import { Container, CardBox } from "./styles";
-//import imagem from "../../assets/icon-supervisor.svg"
-
-
-//const t = 'Powered by Technology'
 
 const Card = (props) => {
 
