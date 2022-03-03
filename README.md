@@ -6,7 +6,7 @@ Projeto de estudo em React com styled-components, modelo usado em desafio do Fro
 
 Nesse projeto foi praticado o aproveitamento de componentes e a personalização dos componentes passando props.
 
-[Link do Projeto](https://code.visualstudio.com/)
+[Link do Projeto Online](https://section-four-cards.netlify.app/)
 
 ### Pré-requisitos
 
