@@ -1,11 +1,12 @@
 # Section Four Cards
 
-[![Vídeo Demonstração](https://github.com/marcolucianodev/section-four-cards/blob/master/public/section-four-cards.png)](https://www.linkedin.com/posts/marcolucianodev_react-frontend-desenvolvedorfrontend-activity-6892252446849155073-x04w)
+[![Vídeo Demonstração](https://github.com/marcolucianodev/section-four-cards/blob/master/public/section-four-cards.png)](https://section-four-cards.netlify.app/)
 
 Projeto de estudo em React com styled-components, modelo usado em desafio do Front-end Mentor.
 
 Nesse projeto foi praticado o aproveitamento de componentes e a personalização dos componentes passando props.
 
+[Link do Projeto](https://code.visualstudio.com/)
 
 ### Pré-requisitos
 
@@ -17,10 +18,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/marcolucianodev/section-four-cards>
+$ git clone https://github.com/marcolucianodev/section-four-cards
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd section-four-cards
+
+# Instale as dependências
+$ npm install
 
 # Execute a aplicação
 $ npm start
